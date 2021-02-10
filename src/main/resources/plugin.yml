@@ -1,0 +1,6 @@
+name: ModelAPI
+main: com.bestaford.ModelAPI
+version: "1.0"
+api: "1.0.11"
+author: Bestaford
+load: STARTUP
